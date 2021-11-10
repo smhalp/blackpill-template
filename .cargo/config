@@ -9,5 +9,5 @@ rustflags = [
 ]
 
 [build]
-target = "thumbv7m-none-eabihf" # cortext-M4F and M7F with FPU
+target = "thumbv7em-none-eabihf" # cortext-M4F and M7F with FPU
 
