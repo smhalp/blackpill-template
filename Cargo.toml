@@ -18,7 +18,7 @@ version = "^0.10"
 features = ["rt", "stm32f411"] # make sure your microcontroller matches this
 
 [[bin]]
-name = "{{crate-name}}"
+name = "{{crate_name}}"
 test = false
 bench = false
 
